@@ -1,0 +1,9 @@
+article {
+	margin: 5px;
+	padding: 3px;
+	border: 1px solid #000000;
+}
+	a.readmorelink, a.readlesslink {
+		font-size: 10px;
+		text-decoration: none;
+	}
